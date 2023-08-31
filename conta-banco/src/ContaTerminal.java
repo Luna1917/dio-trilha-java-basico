@@ -24,7 +24,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite seu último sobrenome!");
         String sobrenome = scanner.next();       
         
-         System.out.println("Por favor, digite seu saldo");
+         System.out.println("Por favor, digite seu saldo!");
         double saldo = scanner.nextDouble();       
 
         // Todas variáveis tendo sido preenchidas pelo usuário, podemos imprimir essas informações, entre muitas outras coisas.
